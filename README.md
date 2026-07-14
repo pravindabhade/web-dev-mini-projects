@@ -27,6 +27,9 @@ This repository includes projects such as:
 - Notes App
 - Portfolio Website
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a31449ab-b909-4970-ab66-2229bc61c657" />
+
+
 > More projects will be added regularly.
 
 ## 📁 Repository Structure
